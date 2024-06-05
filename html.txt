@@ -1,0 +1,7 @@
+h1 {
+background: while 
+}
+body {
+solor: yellow 
+backgorund: blue
+}
